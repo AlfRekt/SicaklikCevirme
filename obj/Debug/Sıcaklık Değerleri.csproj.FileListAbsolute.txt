@@ -1,0 +1,22 @@
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\bin\Debug\Sıcaklık Değerleri.exe.config
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\bin\Debug\Sıcaklık Değerleri.exe
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\bin\Debug\Sıcaklık Değerleri.pdb
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\obj\Debug\Sıcaklık_Değerleri.Form1.resources
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\obj\Debug\Sıcaklık_Değerleri.Properties.Resources.resources
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.exe
+C:\Users\PC\Desktop\Game Design\C#\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.pdb
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\bin\Debug\Sıcaklık Değerleri.exe.config
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\bin\Debug\Sıcaklık Değerleri.exe
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\bin\Debug\Sıcaklık Değerleri.pdb
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\obj\Debug\Sıcaklık_Değerleri.Form1.resources
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\obj\Debug\Sıcaklık_Değerleri.Properties.Resources.resources
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.exe
+C:\Users\PC\Desktop\Game Design\Coding\C#\Takılmaca\Sıcaklık Değerleri\obj\Debug\Sıcaklık Değerleri.pdb
